@@ -1548,3 +1548,19 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+#carrusel1{
+  background-image: url(../img/slide/backgroundCake.jpg);
+}
+
+#carrusel2{
+  background-image: url(../img/slide/photo2jpg.jpg);
+}
+
+#carrusel3{
+  background-image: url(../img/slide/pngtree-various-cakes-decorated-on-a-table-with-fruit-picture-image_3033025.jpg);
+}
+
+#infoImage{
+  background-image: url(../img/info-box.jpg);
+}
