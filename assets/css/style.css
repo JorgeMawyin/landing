@@ -1564,3 +1564,15 @@ section {
 #infoImage{
   background-image: url(../img/info-box.jpg);
 }
+
+.GIF{
+  width: 200px;
+  height: 200px;
+}
+
+.divGIF{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
